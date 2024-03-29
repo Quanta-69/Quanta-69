@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quanta-69
 - 👀 I’m interested in Web Development
-- 🌱 I use HTML CSS AND JAVA to build small sites
+- 🌱 I use HTML CSS AND javaScriptto build my sites
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me Whatsapp(09134438269) E-mail(okurugodstime0@gmail.com)
 
