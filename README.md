@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Quanta-69
-- 👀 I’m interested in Web Development
-- 🌱 I use HTML CSS AND javaScriptto build my sites
+- 👋 Hi, I’m @Quantoxt
+- 👀 I’m a Front End Web-developer
+- 🌱 I use HTML, CSS, Javascript and more to build my sites
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me Whatsapp(09134438269) E-mail(okurugodstime0@gmail.com)
 
