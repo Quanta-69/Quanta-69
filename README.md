@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quantoxt
 - 👀 I’m a Front End Web-developer
-- 🌱 I use HTML, CSS, Javascript and more to build my sites
+- 🌱  Familiar with HTML, CSS, JS, Vue JS, Next JS, React JS and Tailwind
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me Whatsapp(09134438269) E-mail(okurugodstime0@gmail.com)
 
